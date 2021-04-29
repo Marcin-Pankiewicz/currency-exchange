@@ -1,0 +1,48 @@
+.container {
+    display: block;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container__rateFieldset {
+    display: none;
+}
+
+.container__rateFieldsetOn {
+    display: block;
+}
+
+.container__button {
+    display: block;
+    width: 100%;
+    max-width: 150px;
+    border: none;
+    background-color: #151726;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container__button:hover {
+    background-color: hsl(233, 29%, 24%);
+}
+
+.container__button:active {
+    background-color: hsl(233, 29%, 36%);
+}
+
+.container__rateFieldset {
+    box-shadow: 5px 5px 10px #777;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.container__legend {
+    border: 1px solid #777;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: silver;
+    color: black;
+    font-weight: bold;
+}

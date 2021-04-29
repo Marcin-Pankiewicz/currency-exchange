@@ -1,0 +1,20 @@
+footer {
+    margin: 10px auto;
+    padding: 7px;
+    text-align: center;
+    color: #fbfbfb;
+    background-color: #151726;
+}
+
+.footer__paragraph {
+    padding: 10px;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: white;
+}
+
+.footer__link--secondColour {
+    color: orange;
+}

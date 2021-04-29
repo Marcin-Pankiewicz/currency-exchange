@@ -1,0 +1,39 @@
+.form__fieldset {
+    box-shadow: 5px 5px 10px #777;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.form__legend {
+    border: 1px solid #777;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: silver;
+    color: black;
+    font-weight: bold;
+}
+
+.form__cash {
+    display: block;
+    color: crimson;
+}
+
+.form__button {
+    width: 100%;
+    max-width: 150px;
+    border: none;
+    background-color: #151726;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.form__button:hover {
+    background-color: hsl(233, 29%, 24%);
+}
+
+.form__button:active {
+    background-color: hsl(233, 29%, 36%);
+}
