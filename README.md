@@ -16,3 +16,8 @@ It is an ordinary currency exchange  which additionally has the option of changi
 - To reset all values click "Reset" button
 - To change currencies click the "Pokaż stawki" button 
 Change currencies value and enjoy !
+
+## Animation from working app
+
+ ![howToUse](images/howToUse.gif)
+ ![howToChangeRate](images/howToChangeRate.gif)
